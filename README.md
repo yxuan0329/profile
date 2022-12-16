@@ -7,4 +7,3 @@ A  student in Institute of Multimedia Engineering of NYCU, Taiwan.
 <br><br><br>
 ###  Contacts
 📧 xuan94357@gmail.com <br>
-:memo: https://medium.com/@yxuan0329
